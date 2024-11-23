@@ -11,8 +11,6 @@ This project uses:
 
 Features
 
-Check out the fun features of this drawing app:
-
     Change Pen Color: Pick a color from the color picker and create colorful drawings.
     Change Background Color: Customize your canvas background with different colors.
     Eraser Pen: Easily erase any mistakes to perfect your artwork.
