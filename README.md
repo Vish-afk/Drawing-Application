@@ -1,4 +1,4 @@
-#Drawing Application
+Drawing Application
 
 This app lets you get creative by drawing on a canvas using HTML, CSS, and JavaScript. Let your imagination shine!
 Technologies Used
