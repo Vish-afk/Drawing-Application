@@ -1,4 +1,4 @@
-Drawing Application
+#Drawing Application
 
 This app lets you get creative by drawing on a canvas using HTML, CSS, and JavaScript. Let your imagination shine!
 Technologies Used
@@ -18,4 +18,4 @@ Check out the fun features of this drawing app:
     Eraser Pen: Easily erase any mistakes to perfect your artwork.
     Clear Canvas: Start fresh with a single click to clear everything.
     Download Your Art: Save your creations as image files (like PNG) to share or keep.
-# Drawing-Application
+
